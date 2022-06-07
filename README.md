@@ -4,9 +4,9 @@
 
 imagens do projeto.
 
-![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/images/image1.png)
-![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/images/image2.png)
-![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/images/image3.png)
-![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/images/image4.png)
-![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/images/image5.png)
-![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/images/image6.png)
+![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/blob/main/images/image1.png)
+![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/blob/main/images/image2.png)
+![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/blob/main/images/image3.png)
+![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/blob/main/images/image4.png)
+![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/blob/main/images/image5.png)
+![image](https://github.com/codigoperfeito/Projeto-Clone-Globo/blob/main/images/image6.png)
