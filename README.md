@@ -1,4 +1,4 @@
-# Projeto de clone do git usando somente CSS3 
+# Projeto de clone da globo usando somente CSS3 
 
 ### esse projeto é somente para testar os conhecimentos com o HTML5/CSS3 puro
 
